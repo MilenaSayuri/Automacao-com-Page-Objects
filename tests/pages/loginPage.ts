@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 
-export class form_login{
+export class login{
     readonly page:Page;
     readonly UserName = '[data-test="username"]';
     readonly UserPassword = '[data-test="password"]';

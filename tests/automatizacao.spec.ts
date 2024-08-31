@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { form_usuario } from './pages/form_usuario';
+import { form_usuario } from './pages/form_usuarioPage';
 
 const usuario = 'usuarioteste';
 const nome = 'milena';

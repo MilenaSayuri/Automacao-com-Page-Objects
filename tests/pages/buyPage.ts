@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 
-export class form_buy{
+export class buy{
     readonly page:Page;
 
     constructor(page:Page){

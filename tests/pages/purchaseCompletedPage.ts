@@ -1,6 +1,6 @@
 import { expect, Page } from '@playwright/test';
 
-export class form_buy_complete{
+export class purchaseCompleted{
     readonly page:Page;
 
     constructor(page:Page){

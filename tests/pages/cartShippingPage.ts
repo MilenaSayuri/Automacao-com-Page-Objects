@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 
-export class form_addressee{
+export class cartShipping{
     readonly page:Page;
     readonly FirstName = '[data-test="firstName"]';
     readonly LastName = '[data-test="lastName"]';
